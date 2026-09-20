@@ -72,4 +72,4 @@ Each project README should include the business problem, dataset summary, method
 
 ## Connect 
 
-LinkedIn: [Add LinkedIn URL] | GitHub: [Add GitHub URL] | Email: [Add preferred email] 
+LinkedIn: www.linkedin.com/in/alagesan-ramesh-129933219| GitHub: [Add GitHub URL] | Email:rameshalagesan@outlook.com  
