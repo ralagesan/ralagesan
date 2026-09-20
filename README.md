@@ -71,5 +71,7 @@ Each project README should include the business problem, dataset summary, method
 - Use the contact links below to connect about collaboration, consulting, or applied AI opportunities. 
 
 ## Connect 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh_Alagesan-0077B5?style=flat-inkedin&logoColor=white](https://www.linkedin.com/in/alagesan-ramesh-129933219)
 
-LinkedIn: www.linkedin.com/in/alagesan-ramesh-129933219| GitHub: [Add GitHub URL] | Email:rameshalagesan@outlook.com  
+**GitHub:** [Add GitHub URL]  
+**Email:** rameshalagesan@outlook.com
